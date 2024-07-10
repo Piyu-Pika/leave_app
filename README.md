@@ -12,8 +12,9 @@ This Flutter application allows employees to manage and submit leave requests. I
 
 ## 📸 Screenshots
 
-![Home Screen](path_to_home_screen_screenshot.png)
-![Leave Application Form](path_to_leave_form_screenshot.png)
+![WhatsApp Image 2024-07-09 at 12 52 00_0f42d466](https://github.com/Piyu-Pika/leave_app/assets/162677885/d15a45e7-e2bb-4d9d-b303-083e595fd74c)
+![WhatsApp Image 2024-07-09 at 12 52 00_1e4e9073](https://github.com/Piyu-Pika/leave_app/assets/162677885/77805ced-bcbd-4f6b-9d58-fc14185a23f2)
+
 
 ## 🚀 Getting Started
 
