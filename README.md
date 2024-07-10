@@ -33,7 +33,7 @@ This Flutter application allows employees to manage and submit leave requests. I
 
 2. Navigate to the project directory:
    ```
-   cd leave-application-flutter
+   cd leave-app
    ```
 
 3. Get the dependencies:
